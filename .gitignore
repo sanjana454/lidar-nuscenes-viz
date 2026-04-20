@@ -1,0 +1,13 @@
+# Data
+data/
+
+# Outputs
+*.ply
+*.png
+
+# Python
+__pycache__/
+*.pyc
+
+# Misc
+.DS_Store
